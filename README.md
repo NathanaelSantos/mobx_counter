@@ -24,3 +24,6 @@ Adicione as seguintes dependências ao seu arquivo pubspec.yaml.
     build_runner: ^2.1.11
     mobx_codegen: ^2.0.7
   ```
+  
+**mobx_codegen** Adiciona suporte para anotar seu código MobX com ``@observable``, ``@computed``, ``@action``,
+![](/files/mobx_codegen.png)
