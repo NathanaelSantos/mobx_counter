@@ -9,7 +9,7 @@ Adicione as seguintes dependências ao seu arquivo pubspec.yaml.
   ```
   **mobx** é o responsável por trazer a base de códigos (Observables, Actions, Reactions)
   
-  **flutter_mobx** faz a integração do MobX sobre o Flutter. O flutter_mobx fornece um conjunto de widgets **Observer** que escutam Observables e com isso, recontrói automaticamente as alteração.
+  **flutter_mobx** faz a integração do MobX sobre o Flutter. O flutter_mobx fornece um conjunto de widgets **Observer** que escutam Observables e com isso, recontrói automaticamente as alterações.
   
   Com flutter_mobx:
   
