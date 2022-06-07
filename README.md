@@ -1,4 +1,6 @@
-# MobX.dart
+
+
+# **Flutter MobX - Gestão de Estado de forma simples**
 
 ## Dependências
 Adicione as seguintes dependências ao seu arquivo pubspec.yaml.
